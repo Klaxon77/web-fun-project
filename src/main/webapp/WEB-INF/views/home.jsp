@@ -6,7 +6,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="resources/style.css">
-        <title>Art-Sheva</title>
+        <title>Fun</title>
     </head>
     <body>
         <div id="title">
