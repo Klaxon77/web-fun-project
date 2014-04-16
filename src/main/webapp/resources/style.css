@@ -1,0 +1,18 @@
+#title {
+    padding: 10 10 10 10;
+    text-align: center;
+    background: #7BBDFF;
+}
+#main {
+    padding: 10 10 10 10;
+    background: #43A01F;
+    height: 70%;
+}
+#main_title {
+    text-align: center;
+    background: #0FF07C;
+}
+marquee {
+    background: #C12FD9;
+}
+
