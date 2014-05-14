@@ -14,10 +14,6 @@
         </div>
 
         <div id="main">
-            <div id="main_title">
-                <h2>Welcome to us</h2>
-                <marquee>Welcome. This is the best running text, forever and ever</marquee>
-            </div>
             <div id="some_text">
                 <h3>Lots of news</h3>
             </div>
